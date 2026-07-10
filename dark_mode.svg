@@ -1,0 +1,194 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="530px" font-size="16px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key {fill: #ffa657;}
+.value {fill: #a5d6ff;}
+.addColor {fill: #3fb950;}
+.delColor {fill: #f85149;}
+.cc {fill: #616e7f;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="985px" height="530px" fill="#161b22" rx="15"/><g transform="translate(8, 8) scale(0.235)">
+<text x="0" y="0" fill="#c9d1d9" class="ascii">
+<tspan x="0" y="16">                                                                       C0Lz</tspan>
+<tspan x="0" y="30">                                                            L@$$$$$$$$$$$$$$$$$$$$$$p</tspan>
+<tspan x="0" y="44">                                                       J$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$q</tspan>
+<tspan x="0" y="58">                                                    #$$$$$$$$$$$$$dX         Yq$$$$$$$$$$$$$$q</tspan>
+<tspan x="0" y="72">                                                z$$$$$$$$$$o                         Z$$$$$$$$$$o</tspan>
+<tspan x="0" y="86">                                              a$$$$$$$$0                                  k$$$$$$$$b</tspan>
+<tspan x="0" y="100">                                           U$$$$$$$8                                         L$$$$$$$$</tspan>
+<tspan x="0" y="114">                                         Q$$$$$$$X                                              U$$$$$$$Q</tspan>
+<tspan x="0" y="128">                                       w$$$$$$0                                                    k$$$$$$O</tspan>
+<tspan x="0" y="142">                                     L$$$$$$J                                                        Q$$$$$$J</tspan>
+<tspan x="0" y="156">                                    $$$$$$z                                                             $$$$$$</tspan>
+<tspan x="0" y="170">                                  W$$$$$X                                                                J$$$$$&amp;</tspan>
+<tspan x="0" y="184">                                C$$$$$Q                                                                    O$$$$$L</tspan>
+<tspan x="0" y="198">                               W$$$$q                                                                        p$$$$*</tspan>
+<tspan x="0" y="212">                             J$$$$$                                                                            $$$$$U</tspan>
+<tspan x="0" y="226">                            d$$$$q                                                                              d$$$$a</tspan>
+<tspan x="0" y="240">                           &amp;$$$$                                                                                 z$$$$8</tspan>
+<tspan x="0" y="254">                          $$$$o                                                                                    h$$$$</tspan>
+<tspan x="0" y="268">                        C$$$$m                                                                                      m$$$$Y</tspan>
+<tspan x="0" y="282">                       m$$$$Y                                                                                        J$$$$Z</tspan>
+<tspan x="0" y="296">                      w$$$$                                                                                            $$$$q</tspan>
+<tspan x="0" y="310">                     q$$$W                                                                                              B$$$m</tspan>
+<tspan x="0" y="324">                    p$$$M                                                                                                W$$$Z</tspan>
+<tspan x="0" y="338">                   b$$$#                                                                                                  &amp;$$$O</tspan>
+<tspan x="0" y="352">                  q$$$*                                                                                                    %$$$0</tspan>
+<tspan x="0" y="366">                 J$$$a                                                                                                      B$$$U</tspan>
+<tspan x="0" y="380">                 $$$M                                                                                                        @$$$</tspan>
+<tspan x="0" y="394">                $$$$                                                                                                          $$$$</tspan>
+<tspan x="0" y="408">               $$$$                                                                                                            $$$*</tspan>
+<tspan x="0" y="422">              #$$$                                                                                                             Q$$$m</tspan>
+<tspan x="0" y="436">             C$$$L                                                                                                              b$$$Y</tspan>
+<tspan x="0" y="450">             $$$p                                                                                                                &amp;$$$</tspan>
+<tspan x="0" y="464">            %$$$                                                                                                                  $$$k</tspan>
+<tspan x="0" y="478">           0$$$                                                                                                                   Y$$$z</tspan>
+<tspan x="0" y="492">           $$$m                                                                                                                    a$$$</tspan>
+<tspan x="0" y="506">          $$$$                                                                                                                      $$$d</tspan>
+<tspan x="0" y="520">         Y$$$                                                                                                                       C$$$</tspan>
+<tspan x="0" y="534">         $$$Z                                                                                                                        M$$$</tspan>
+<tspan x="0" y="548">        Q$$$                                                                                                                          $$$</tspan>
+<tspan x="0" y="562">        $$$C                                                                                                                          w$$$</tspan>
+<tspan x="0" y="576">       q$$$                                                                                                                            $$$X</tspan>
+<tspan x="0" y="590">       $$$z                                  O$$Wz                                              U$$$J                                  Z$$$</tspan>
+<tspan x="0" y="604">      Z$$$                                J$$$$$$$$X                                          $$$$$$$$m                                 $$$J</tspan>
+<tspan x="0" y="618">      $$$                                Z$$$$$$$$$$L                                        $$$$$$$$$$*                                0$$$</tspan>
+<tspan x="0" y="632">     X$$$                               b$$$$Y  L$$$$U                                     U$$$$0   $$$$*                                $$$</tspan>
+<tspan x="0" y="646">     $$$U                               $$$%      $$$$                                     $$$$      b$$$0                               0$$&amp;</tspan>
+<tspan x="0" y="660">     $$$                               $$$*        $$$M                                   m$$$        d$$$                                $$$</tspan>
+<tspan x="0" y="674">    #$$m                              J$$$          $$$                                   $$$J         $$$b                               B$$Q</tspan>
+<tspan x="0" y="688">    $$$                               $$$m          d$$$                                 m$$$           $$$                                $$$</tspan>
+<tspan x="0" y="702">    $$$                               $$$            $$$                                 $$$            8$$0                               $$$</tspan>
+<tspan x="0" y="716">   &amp;$$z                              J$$q            k$$0                                $$$             $$$                               0$$a</tspan>
+<tspan x="0" y="730">   $$$                               $$$              $$$                               J$$q             $$$                                $$$</tspan>
+<tspan x="0" y="744">   $$$                               $$$              $$$                               $$$              p$$                                $$$</tspan>
+<tspan x="0" y="758">  a$$U                               $$$              &amp;$$                               $$$               $$a                               w$$C</tspan>
+<tspan x="0" y="772">  $$$                                $$$h             z$$z                              $$$$X             $$$                                $$$</tspan>
+<tspan x="0" y="786">  $$$                                $$$$$             $$p                              m$$$$q            $$$                                $$$</tspan>
+<tspan x="0" y="800">  $$Z                                 h$$$$O           $$%                               X$$$$8           $$$                                %$$</tspan>
+<tspan x="0" y="814"> a$$                                   L$$$$           $$$                                 W$$$L          $$$                                 $$p</tspan>
+<tspan x="0" y="828"> $$$                                    a$$$           $$$                                 L$$$w          $$$                                 $$$</tspan>
+<tspan x="0" y="842"> $$$                                   $$$$$           $$M                                h$$$$C          $$$                                 $$$</tspan>
+<tspan x="0" y="856"> $$B                                 Q$$$$h            $$Q                               $$$$$            $$$                                 $$$</tspan>
+<tspan x="0" y="870">Y$$Y                                 $$$$L             $$                               8$$$h             $$$                                 h$$</tspan>
+<tspan x="0" y="884">#$$                                  $$$              0$$                               $$$L              $$*                                  $$L</tspan>
+<tspan x="0" y="898">$$$                                  $$$              B$$                               $$$               $$C                                  $$$</tspan>
+<tspan x="0" y="912">$$$                                  $$$              $$$                               z$$o             h$$                                   $$$</tspan>
+<tspan x="0" y="926">$$$                                  X$$o             $$$                                $$$             $$$                                   $$$</tspan>
+<tspan x="0" y="940">$$$                                   $$$            w$$m                                $$$             $$$                                   $$$</tspan>
+<tspan x="0" y="954">$$@                                   $$$Q           $$$                                 O$$B           %$$0                                   $$$</tspan>
+<tspan x="0" y="968">$$w                                   Y$$$          w$$$                                  $$$           $$$                                    $$$</tspan>
+<tspan x="0" y="982">$$                                     $$$q         $$$X                                  h$$%         $$$k                                    a$$</tspan>
+<tspan x="0" y="996">$$                                     C$$$w       $$$B                                    $$$M       W$$$                                     L$$</tspan>
+<tspan x="0" y="1010">$$                         p$$$Q        W$$$w    U$$$$                                     q$$$M     $$$$C        m$$$w                         $$</tspan>
+<tspan x="0" y="1024">$$                        C$$$$$         W$$$$$$$$$$$Y                                      p$$$$$$$$$$$q         $$$$$X                        $$</tspan>
+<tspan x="0" y="1038">$$                        $$$$$$Q         &amp;$$$$$$$$$z                                        p$$$$$$$$$m         M$$$$$B                        $$</tspan>
+<tspan x="0" y="1052">$$                        $$$ $$$          z$$$$$$O                                            M$$$$$d           $$$ $$$                       z$$</tspan>
+<tspan x="0" y="1066">$$                        $$$ $$$                                                                                $$$ $$$                       Y$$</tspan>
+<tspan x="0" y="1080">$$                        $$$ $$$                                                                                $$$ $$$                       J$$</tspan>
+<tspan x="0" y="1094">$$                        $$$ $$$                                                                                $$$ $$$                       Q$$</tspan>
+<tspan x="0" y="1108">$$U                       $$$ $$$                                                                                $$$ $$%                       b$$</tspan>
+<tspan x="0" y="1122">$$k                       *$$ $$$                                                                                $$@ $$w                       $$$</tspan>
+<tspan x="0" y="1136">$$$                       Y$$ #$$                                                                                $$QY$$                        $$$</tspan>
+<tspan x="0" y="1150">$$$                        $$pY$$                                                                               O$$ #$$                        $$$</tspan>
+<tspan x="0" y="1164">$$$                        $$$ $$h                                                                              $$$ $$$                        $$$</tspan>
+<tspan x="0" y="1178">$$$                        $$$ $$$                                                                              $$$ $$$                        $$$</tspan>
+<tspan x="0" y="1192">$$$                        $$$ $$$                                                                              $$$ $$$                        $$d</tspan>
+<tspan x="0" y="1206">k$$                        O$$Ua$$                                                                             L$$CO$$U                        $$</tspan>
+<tspan x="0" y="1220"> $$O                        $$$ $$B                                                                            $$$ $$$                        k$$</tspan>
+<tspan x="0" y="1234"> $$$                        $$$ $$$                                                                            $$$ $$$                        $$$</tspan>
+<tspan x="0" y="1248"> $$$                        $$$Y%$$J                                                                          m$$pC$$M                        $$$</tspan>
+<tspan x="0" y="1262"> $$$                        z$$$ $$$                                                                          $$$ $$$                         $$$</tspan>
+<tspan x="0" y="1276"> o$$                         $$$ $$$X                                                                        Q$$$ $$$                        X$$C</tspan>
+<tspan x="0" y="1290">  $$h                        o$$ww$$$                                                                        $$$Lk$$w                        8$$</tspan>
+<tspan x="0" y="1304">  $$$                         $$$ $$$L                                                                      w$$$ $$$                         $$$</tspan>
+<tspan x="0" y="1318">  $$$                         $$$ZQ$$$                                                                      $$$Xq$$%                         $$$</tspan>
+<tspan x="0" y="1332">  Z$$L                         $$$ $$$Z                                                                    b$$$ $$$                         p$$Q</tspan>
+<tspan x="0" y="1346">   $$$                         $$$pY$$$                                                                    $$$ k$$$                         $$$</tspan>
+<tspan x="0" y="1360">   $$$                         X$$$ $$$b                                                                  &amp;$$W $$$                          $$$</tspan>
+<tspan x="0" y="1374">   #$$C                         %$$@ $$$0                                                                q$$$ $$$a                         Z$$Z</tspan>
+<tspan x="0" y="1388">    $$$                          $$$L*$$$z                                                              C$$$b0$$$                          $$$</tspan>
+<tspan x="0" y="1402">    $$$                          w$$$ $$$$                                                              $$$W $$$0                          $$$</tspan>
+<tspan x="0" y="1416">    O$$W                          $$$$ $$$$                                                            $$$$ $$$@                          %$$Z</tspan>
+<tspan x="0" y="1430">     $$$                           $$$B $$$#                                                          %$$$ $$$$                           $$$</tspan>
+<tspan x="0" y="1444">     B$$Q                          Y$$$aL$$$p                                                        a$$$Y#$$$                           q$$#</tspan>
+<tspan x="0" y="1458">      $$$                           Z$$$mp$$$#                                                      &amp;$$$Zq$$$C                           $$$</tspan>
+<tspan x="0" y="1472">      $$$L                           k$$$U#$$$$                                                    $$$$hC$$$q                           L$$$</tspan>
+<tspan x="0" y="1486">      L$$$                            &amp;$$$Yd$$$$z                                                J$$$$mJ$$$*                            $$$X</tspan>
+<tspan x="0" y="1500">       $$$0                            $$$$ZQ$$$$0                                              w$$$$Um$$$$                            Z$$$</tspan>
+<tspan x="0" y="1514">       J$$$                             $$$$h $$$$b                                            o$$$$ *$$$$                             $$$C</tspan>
+<tspan x="0" y="1528">        $$$m                             8$$$8 $$$$$O                                        w$$$$&amp; $$$$W                             b$$$</tspan>
+<tspan x="0" y="1542">        z$$$                              h$$$$ *$$$$$C                                    0$$$$$k $$$$d                              $$$</tspan>
+<tspan x="0" y="1556">         $$$*                              Z$$$$J $$$$$$X                                U$$$$$$ Q$$$$Q                              8$$W</tspan>
+<tspan x="0" y="1570">          $$$J                              U$$$$W J$$$$$$Y                            J$$$$$$X @$$$$                               U$$$</tspan>
+<tspan x="0" y="1584">          b$$$                                $$$$$m 0$$$$$$&amp;                        $$$$$$$C q$$$$$                                $$$d</tspan>
+<tspan x="0" y="1598">           $$$a                                d$$$$$L q$$$$$$$$p                h$$$$$$$$Z Q$$$$$m                                #$$$</tspan>
+<tspan x="0" y="1612">           X$$$Y                                 $$$$$$0 z$$$$$$$$$$$$$$$$$$$$$$$$$$$$$%  Z$$$$$8                                 Q$$$z</tspan>
+<tspan x="0" y="1626">            h$$$                                  J$$$$$$8   W$$$$$$$$$$$$$$$$$$$$$$*   @$$$$$$X                                  $$$d</tspan>
+<tspan x="0" y="1640">             $$$8                                   U$$$$$$$o    O$$$$$$$$$$$$$BL    M$$$$$$$z                                   $$$$</tspan>
+<tspan x="0" y="1654">             Y$$$k                                     $$$$$$$$$*z              XM$$$$$$$$&amp;                                     k$$$</tspan>
+<tspan x="0" y="1668">              m$$$Q                                      J$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$Y                                      Z$$$Z</tspan>
+<tspan x="0" y="1682">               o$$$                                          *$$$$$$$$$$$$$$$$$$$$$$k                                         J$$$o</tspan>
+<tspan x="0" y="1696">                $$$$                                              b$$$$$$$$$$$$q                                              $$$%</tspan>
+<tspan x="0" y="1710">                 $$$$                                                                                                        $$$$</tspan>
+<tspan x="0" y="1724">                 X$$$$                                                                                                      $$$$</tspan>
+<tspan x="0" y="1738">                  C$$$@                                                                                                    $$$$Y</tspan>
+<tspan x="0" y="1752">                   L$$$%                                                                                                  $$$$Q</tspan>
+<tspan x="0" y="1766">                    Q$$$8                                                                                                $$$$C</tspan>
+<tspan x="0" y="1780">                     O$$$$                                                                                              $$$$J</tspan>
+<tspan x="0" y="1794">                      m$$$$z                                                                                          Y$$$$U</tspan>
+<tspan x="0" y="1808">                       C$$$$L                                                                                        w$$$$X</tspan>
+<tspan x="0" y="1822">                         $$$$q                                                                                      *$$$$</tspan>
+<tspan x="0" y="1836">                          $$$$M                                                                                    $$$$&amp;</tspan>
+<tspan x="0" y="1850">                           W$$$$J                                                                                Q$$$$b</tspan>
+<tspan x="0" y="1864">                            p$$$$h                                                                              8$$$$Q</tspan>
+<tspan x="0" y="1878">                              $$$$$z                                                                          O$$$$$</tspan>
+<tspan x="0" y="1892">                               h$$$$o                                                                        $$$$$q</tspan>
+<tspan x="0" y="1906">                                J$$$$$q                                                                    b$$$$$</tspan>
+<tspan x="0" y="1920">                                  h$$$$$Q                                                                q$$$$$m</tspan>
+<tspan x="0" y="1934">                                    $$$$$$U                                                            m$$$$$8</tspan>
+<tspan x="0" y="1948">                                     Y$$$$$$Z                                                        q$$$$$$</tspan>
+<tspan x="0" y="1962">                                       0$$$$$$#                                                   z$$$$$$$</tspan>
+<tspan x="0" y="1976">                                         U$$$$$$$L                                              Z$$$$$$$X</tspan>
+<tspan x="0" y="1990">                                            B$$$$$$$Z                                        k$$$$$$$h</tspan>
+<tspan x="0" y="2004">                                              q$$$$$$$$M                                 z$$$$$$$$$J</tspan>
+<tspan x="0" y="2018">                                                 p$$$$$$$$$$d                        *$$$$$$$$$$m</tspan>
+<tspan x="0" y="2032">                                                    Z$$$$$$$$$$$$$$$dLUXz   La$$$$$$$$$$$$$$$U</tspan>
+<tspan x="0" y="2046">                                                        0$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$0</tspan>
+<tspan x="0" y="2060">                                                             O8$$$$$$$$$$$$$$$$$$$$%C</tspan>
+</text>
+</g>
+<text x="390" y="30" fill="#c9d1d9">
+<tspan x="390" y="30">Anassjid.dev</tspan> -———————————————————————————————————————————-—-
+<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">Windows 10, Android 16, iOS 17</tspan>
+<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ...................... </tspan><tspan class="value" id="age_data">22 years, 5 months, 29 days</tspan>
+<tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ...................................... </tspan><tspan class="value">Self-employed</tspan>
+<tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">Full-Spectrum Frontend Development</tspan>
+<tspan x="390" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">Cursor 3.10.20, VS Code 1.97.0</tspan>
+<tspan x="390" y="150" class="cc">. </tspan>
+<tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Build</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">Design, Build, Optimize, Ship, Deploy</tspan>
+<tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Craft</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">UI/UX, Animation, Performance, Test, Motion</tspan>
+<tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">Arabic, English, French</tspan>
+<tspan x="390" y="230" class="cc">. </tspan>
+<tspan x="390" y="250" class="cc">. </tspan><tspan class="key">Interests</tspan>.<tspan class="key">Tech</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">Open Source, Side Projects, UI Trends</tspan>
+<tspan x="390" y="270" class="cc">. </tspan><tspan class="key">Interests</tspan>.<tspan class="key">Life</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">Gaming, Travel, Music</tspan>
+<tspan x="390" y="310">- Contact</tspan> -——————————————————————————————————————————————-—-
+<tspan x="390" y="330" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">Ajftwork@gmail.com</tspan>
+<tspan x="390" y="350" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">Ajxwork22@gmail.com</tspan>
+<tspan x="390" y="370" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Work</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">hello@anassjid.dev</tspan>
+<tspan x="390" y="390" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ....................................... </tspan><tspan class="value">Anassjid</tspan>
+<tspan x="390" y="410" class="cc">. </tspan><tspan class="key">Portfolio</tspan>:<tspan class="cc"> .................................. </tspan><tspan class="value">Anassjid.dev</tspan>
+<tspan x="390" y="450">- GitHub Stats</tspan> -—————————————————————————————————————————-—-
+<tspan x="390" y="470" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots"> .... </tspan><tspan class="value" id="repo_data">95</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value" id="contrib_data">133</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc" id="star_data_dots"> ........... </tspan><tspan class="value" id="star_data">342</tspan>
+<tspan x="390" y="490" class="cc">. </tspan><tspan class="key">Commmits</tspan>:<tspan class="cc" id="commit_data_dots"> ................. </tspan><tspan class="value" id="commit_data">2,116</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc" id="follower_data_dots"> ....... </tspan><tspan class="value" id="follower_data">196</tspan>
+<tspan x="390" y="510" class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="cc" id="loc_data_dots">. </tspan><tspan class="value" id="loc_data">446,276</tspan> ( <tspan class="addColor" id="loc_add">523,178</tspan><tspan class="addColor">++</tspan>, <tspan id="loc_del_dots"> </tspan><tspan class="delColor" id="loc_del">76,902</tspan><tspan class="delColor">--</tspan> )
+</text>
+</svg>
